@@ -1,4 +1,6 @@
 YEAR: 2021
 COPYRIGHT HOLDER: Global Mountain Biodiversity Assessment (GMBA)
-CONTACT: https://www.gmba.unibe.ch/about/contact/
 LICENSE: CC BY-NC-SA 4.0
+DATASET at EarthEnv: https://www.earthenv.org/mountains
+R PACKAGE gmbaR: https://github.com/GMBA-biodiversity/gmbaR
+CONTACT: https://www.gmba.unibe.ch/about/contact/
